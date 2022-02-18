@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ramirezbrianproject3;
+package brianproject3;
 
 /**
  *
- * @author brianramirez
+ * @author brian
  */
 public class SummaryFrame extends javax.swing.JFrame {
     
