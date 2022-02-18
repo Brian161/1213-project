@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ramirezbrianproject3;
+package brianproject3;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author brianramirez
+ * @author brian
  */
 public class BookStore {
 
