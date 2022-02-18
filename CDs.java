@@ -7,7 +7,7 @@ package brianproject3;
 
 /**
  *
- * @author brianramirez
+ * @author brian
  */
 public class CDs extends Product{
    
