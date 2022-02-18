@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ramirezbrianproject3;
+package brianproject3;
 
 import javax.swing.JOptionPane;
 
 /**
  *
- * @author brianramirez
+ * @author brian
  */
 public class PurchaseFrame extends javax.swing.JFrame {
     
